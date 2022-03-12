@@ -1,5 +1,3 @@
-# BaseDialog
-模仿Path的Dialog特效动画
 
 ##Demo
-![](https://github.com/xfmax/BaseDialog/blob/master/gif/show.gif)
+![](https://github.com/IRVING18/notes/blob/master/android/file/cubic.gif)
